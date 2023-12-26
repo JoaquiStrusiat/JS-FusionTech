@@ -1,0 +1,8 @@
+.navar-bg{
+  backdrop-filter: blur(15px);
+}
+.max-nvm {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}

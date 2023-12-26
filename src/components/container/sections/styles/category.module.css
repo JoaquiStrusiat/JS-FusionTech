@@ -1,0 +1,23 @@
+.category {
+    background: black;
+    display: flex;
+}
+
+.case_category{
+    max-width: 1100px;
+    min-height: fit-content;
+    margin: auto;
+    padding: 5%;
+}
+.case_category h3{
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.box{
+    box-shadow: 0px 0px 30px rgba(255, 0, 0, 0.8); /* Ajusta los valores según tus preferencias */
+}
+
+
+
+
